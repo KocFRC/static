@@ -1,4 +1,7 @@
 [
-    {"version":"Takım (22-23)","url":"/team23","isCurrent":false},
-    {"version":"Takım (23-24)","url":"/team24","isCurrent":true}
+    {"version":"Takım Üyeleri (22-23)","url":"/team23/welcome.html","isCurrent":false},
+    {"version":"Takım Üyeleri (23-24)","url":"/welcome.html","isCurrent":true},
+    {"version":"Aday Üyeler (23-24)","url":"/candidates24/welcome.html","isCurrent":false},
+    {"version":"Veliler (23-24)","url":"/parents24/welcome.html","isCurrent":false},
+    {"version":"Kulüp Üyeleri (23-24)","url":"/candidates24/welcome.html","isCurrent":false},
 ]
