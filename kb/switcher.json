@@ -1,7 +1,7 @@
 [
-    {"version":"Aday Üyeler (23-24)","url":"/candidates24","isCurrent":false},
-    {"version":"Kulüp Üyeleri (23-24)","url":"/club24","isCurrent":false},
-    {"version":"Veliler (23-24)","url":"/parents24","isCurrent":false},
-    {"version":"Takım Üyeleri (22-23)","url":"/team23","isCurrent":false},
-    {"version":"Takım Üyeleri (23-24)","url":"/","isCurrent":true}
+    {"version":"Aday Üyeler (23-24)","url":"/candidates24/c24welcome.html","isCurrent":false},
+    {"version":"Kulüp Üyeleri (23-24)","url":"/club24/club24welcome.html","isCurrent":false},
+    {"version":"Veliler (23-24)","url":"/parents24/p24welcome.html","isCurrent":false},
+    {"version":"Takım Üyeleri (22-23)","url":"/team23/t23welcome.html","isCurrent":false},
+    {"version":"Takım Üyeleri (23-24)","url":"/t24welcome.html","isCurrent":true}
 ]
